@@ -1,0 +1,10 @@
+mynum is a number
+name is a text
+
+mynum is equal to 5
+name is equal to "Hubert"
+
+print "Hello world!"
+print 12345
+
+end program successfully
